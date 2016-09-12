@@ -1,0 +1,10 @@
+DEFINED_PHASES=postinst
+DESCRIPTION=Scanner driver for Brother DCP-J725N (brscan4)
+EAPI=6
+HOMEPAGE=http://support.brother.com
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=media-gfx/brother-scan4-bin
+SLOT=0
+_eclass_exported_funcs=pkg_postinst:-
+_md5_=f6a706fd58faece95c9bc2313f7f2b57

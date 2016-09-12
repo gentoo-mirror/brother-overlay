@@ -1,0 +1,10 @@
+DEFINED_PHASES=postinst
+DESCRIPTION=Scanner driver for Brother MFC-L5900DW (brscan4)
+EAPI=6
+HOMEPAGE=http://support.brother.com
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=media-gfx/brother-scan4-bin
+SLOT=0
+_eclass_exported_funcs=pkg_postinst:-
+_md5_=ea9aeb68891e1cd2e2bf78154ba09355

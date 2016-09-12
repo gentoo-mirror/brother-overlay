@@ -1,0 +1,10 @@
+DEFINED_PHASES=postinst
+DESCRIPTION=Scanner driver for Brother DCP-9010CN (brscan3)
+EAPI=6
+HOMEPAGE=http://support.brother.com
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=media-gfx/brother-scan3-bin
+SLOT=0
+_eclass_exported_funcs=pkg_postinst:-
+_md5_=86143c7c9470639a64797c85b2a6eb6c

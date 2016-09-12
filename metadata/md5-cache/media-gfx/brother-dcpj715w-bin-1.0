@@ -1,0 +1,10 @@
+DEFINED_PHASES=postinst
+DESCRIPTION=Scanner driver for Brother DCP-J715W (brscan3)
+EAPI=6
+HOMEPAGE=http://support.brother.com
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=media-gfx/brother-scan3-bin
+SLOT=0
+_eclass_exported_funcs=pkg_postinst:-
+_md5_=16b8079ca99694333cf7b8a4719ab95a

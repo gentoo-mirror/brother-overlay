@@ -1,0 +1,10 @@
+DEFINED_PHASES=postinst
+DESCRIPTION=Scanner driver for Brother HL-3180CDW (brscan4)
+EAPI=6
+HOMEPAGE=http://support.brother.com
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=media-gfx/brother-scan4-bin
+SLOT=0
+_eclass_exported_funcs=pkg_postinst:-
+_md5_=694367f5ead6d28ce323bc7443f456f3

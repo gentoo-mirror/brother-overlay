@@ -1,0 +1,10 @@
+DEFINED_PHASES=postinst
+DESCRIPTION=Scanner driver for Brother MFC-J6510DW (brscan4)
+EAPI=6
+HOMEPAGE=http://support.brother.com
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=media-gfx/brother-scan4-bin
+SLOT=0
+_eclass_exported_funcs=pkg_postinst:-
+_md5_=e87215051865bccb7a7284cad80d5f99

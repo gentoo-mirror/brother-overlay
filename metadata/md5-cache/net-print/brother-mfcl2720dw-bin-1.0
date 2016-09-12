@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Printer driver for Brother MFC-L2720DW (brgenml1)
+EAPI=6
+HOMEPAGE=http://support.brother.com
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=net-print/brother-genml1-bin
+SLOT=0
+_eclass_exported_funcs=-
+_md5_=d9d4f91e612657990573f37a54b4f425

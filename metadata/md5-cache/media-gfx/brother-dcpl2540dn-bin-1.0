@@ -1,0 +1,10 @@
+DEFINED_PHASES=postinst
+DESCRIPTION=Scanner driver for Brother DCP-L2540DN (brscan4)
+EAPI=6
+HOMEPAGE=http://support.brother.com
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=media-gfx/brother-scan4-bin
+SLOT=0
+_eclass_exported_funcs=pkg_postinst:-
+_md5_=7656b1f5a7b706fbdd5aa900facb0b8e

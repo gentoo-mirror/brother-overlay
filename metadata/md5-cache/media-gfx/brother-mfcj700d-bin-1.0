@@ -1,0 +1,10 @@
+DEFINED_PHASES=postinst
+DESCRIPTION=Scanner driver for Brother MFC-J700D (brscan3)
+EAPI=6
+HOMEPAGE=http://support.brother.com
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=media-gfx/brother-scan3-bin
+SLOT=0
+_eclass_exported_funcs=pkg_postinst:-
+_md5_=e80cce250cf4c749f8921f15f5183b65

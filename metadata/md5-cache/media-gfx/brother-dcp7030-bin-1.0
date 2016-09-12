@@ -1,0 +1,10 @@
+DEFINED_PHASES=postinst
+DESCRIPTION=Scanner driver for Brother DCP-7030 (brscan3)
+EAPI=6
+HOMEPAGE=http://support.brother.com
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=media-gfx/brother-scan3-bin
+SLOT=0
+_eclass_exported_funcs=pkg_postinst:-
+_md5_=b5ac645c34004c27e9090a25475f7630

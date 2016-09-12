@@ -1,0 +1,7 @@
+# This file is deprecated as per GLEP 56 in favor of metadata.xml.
+# Please add your descriptions to your package's metadata.xml ONLY.
+# * generated automatically using pmaint *
+
+net-print/brother-genml1-bin:avahi - Uses net-dns/avahi and sys-auth/nss-mdns to find printers with dynamically assigned IP addresses by name
+net-print/brother-hl3140cw-bin:avahi - Uses net-dns/avahi and sys-auth/nss-mdns to find printers with dynamically assigned IP addresses by name
+net-print/brother-hl3150cdw-bin:avahi - Uses net-dns/avahi and sys-auth/nss-mdns to find printers with dynamically assigned IP addresses by name
