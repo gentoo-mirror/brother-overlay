@@ -4,6 +4,7 @@
 
 media-gfx/brother-scan4-bin:usb - Enable this, if you want to scan over usb connection.
 net-print/brother-genml1-bin:avahi - Uses net-dns/avahi and sys-auth/nss-mdns to find printers with dynamically assigned IP addresses by name
+net-print/brother-hl1110-bin:avahi - Uses net-dns/avahi and sys-auth/nss-mdns to find printers with dynamically assigned IP addresses by name
 net-print/brother-hl3140cw-bin:avahi - Uses net-dns/avahi and sys-auth/nss-mdns to find printers with dynamically assigned IP addresses by name
 net-print/brother-hl3150cdw-bin:avahi - Uses net-dns/avahi and sys-auth/nss-mdns to find printers with dynamically assigned IP addresses by name
 net-print/brother-mfcj880dw-bin:debug - Enables DEBUG var in brothers lpdwrapper script to get /tmp/br_cupsfilter_debug_log file

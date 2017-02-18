@@ -400,6 +400,7 @@ net-print/brother-dcpl2520dw-bin 1.0: Printer driver for Brother DCP-L2520DW (br
 net-print/brother-dcpl2540dn-bin 1.0: Printer driver for Brother DCP-L2540DN (brgenml1)
 net-print/brother-dcpl2560dw-bin 1.0: Printer driver for Brother DCP-L2560DW (brgenml1)
 net-print/brother-genml1-bin 3.1.0-r1: Generic Brother printer driver
+net-print/brother-hl1110-bin 3.0.1-r1: Brother printer driver for HL1110* HL1112*
 net-print/brother-hl2130-bin 1.0: Printer driver for Brother HL-2130 (brgenml1)
 net-print/brother-hl2135w-bin 1.0: Printer driver for Brother HL-2135W (brgenml1)
 net-print/brother-hl2240-bin 1.0: Printer driver for Brother HL-2240 (brgenml1)
