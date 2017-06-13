@@ -381,7 +381,8 @@ media-gfx/brother-mfcl8850cdw-bin 1.0: Scanner driver for Brother MFC-L8850CDW (
 media-gfx/brother-mfcl9550cdw-bin 1.0: Scanner driver for Brother MFC-L9550CDW (brscan4)
 media-gfx/brother-mfct800w-bin 1.0: Scanner driver for Brother MFC-T800W (brscan4)
 media-gfx/brother-scan3-bin 0.2.13.1: Brother scanner driver (brscan3)
-media-gfx/brother-scan4-bin 0.4.4-r1 0.4.4-r2: Brother scanner tool version 4
+media-gfx/brother-scan4-bin 0.4.4-r1 0.4.4-r2 0.4.4-r3: Brother scanner tool version 4
+net-print/brother-dcp1510-bin 3.0.1-r1: Brother printer driver for DCP-1510
 net-print/brother-dcp1610w-bin 3.0.1: Brother printer driver for DCP-1610W
 net-print/brother-dcp7055-bin 1.0: Printer driver for Brother DCP-7055 (brgenml1)
 net-print/brother-dcp7055w-bin 1.0: Printer driver for Brother DCP-7055W (brgenml1)
