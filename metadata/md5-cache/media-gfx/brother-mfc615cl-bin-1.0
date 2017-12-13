@@ -1,0 +1,9 @@
+DEFINED_PHASES=postinst
+DESCRIPTION=Scanner driver for Brother MFC-615CL (brscan2)
+EAPI=6
+HOMEPAGE=http://support.brother.com
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=media-gfx/brother-scan2-bin
+SLOT=0
+_md5_=50a1e5ce63841dbead0ad6dbf00496d6

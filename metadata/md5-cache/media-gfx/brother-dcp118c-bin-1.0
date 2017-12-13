@@ -1,0 +1,9 @@
+DEFINED_PHASES=postinst
+DESCRIPTION=Scanner driver for Brother DCP-118C (brscan2)
+EAPI=6
+HOMEPAGE=http://support.brother.com
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=media-gfx/brother-scan2-bin
+SLOT=0
+_md5_=5e3c81e4857b03f51cb5dc1694729b86

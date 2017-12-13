@@ -1,0 +1,9 @@
+DEFINED_PHASES=postinst
+DESCRIPTION=Scanner driver for Brother MFC-845CW (brscan2)
+EAPI=6
+HOMEPAGE=http://support.brother.com
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=media-gfx/brother-scan2-bin
+SLOT=0
+_md5_=8405a26d6b8815e1bf15f8c8cc164519

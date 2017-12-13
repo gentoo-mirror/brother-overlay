@@ -1,0 +1,9 @@
+DEFINED_PHASES=postinst
+DESCRIPTION=Scanner driver for Brother MFC-8670DN (brscan2)
+EAPI=6
+HOMEPAGE=http://support.brother.com
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=media-gfx/brother-scan2-bin
+SLOT=0
+_md5_=11b554f2c8c908450a99018d8eb13c66
