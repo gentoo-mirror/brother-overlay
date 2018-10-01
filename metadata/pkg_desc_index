@@ -534,3 +534,4 @@ net-print/brother-mfcj880dw-bin 1.0.0: Brother MFC-J880DW lpr+cupswrapper (print
 net-print/brother-mfcl2700dw-bin 1.0: Printer driver for Brother MFC-L2700DW (brgenml1)
 net-print/brother-mfcl2720dw-bin 1.0: Printer driver for Brother MFC-L2720DW (brgenml1)
 net-print/brother-mfcl2740dw-bin 1.0: Printer driver for Brother MFC-L2740DW (brgenml1)
+net-print/brother-mfcl8900cdw-bin 1.2.0: Brother printer driver for mfcl8900cdw
