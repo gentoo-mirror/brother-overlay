@@ -527,6 +527,7 @@ net-print/brother-mfc8890dw-bin 1.0: Printer driver for Brother MFC-8890DW (brge
 net-print/brother-mfc8950dw-bin 1.0: Printer driver for Brother MFC-8950DW (brgenml1)
 net-print/brother-mfc8950dwt-bin 1.0: Printer driver for Brother MFC-8950DWT (brgenml1)
 net-print/brother-mfc9130cw-bin 1.1.2: Brother printer driver for MFC-9130CW
+net-print/brother-mfc9140cdn-bin 1.0: Brother printer driver for MFC-9140CDN
 net-print/brother-mfc9320cw-bin 1.1.2: Brother printer driver for MFC-9320CW
 net-print/brother-mfc9330cdw-bin 1.1.2: Brother printer driver for MFC-9330CDW
 net-print/brother-mfc9332cdw-bin 1.1.4: Brother printer driver for MFC-9332CDW
