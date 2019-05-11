@@ -11,5 +11,5 @@ RDEPEND=net-libs/libnsl media-gfx/sane-backends[usb?] virtual/libusb:0
 RESTRICT=mirror strip
 SLOT=0
 SRC_URI=amd64? ( http://download.brother.com/welcome/dlf006648/brscan4-0.4.6-1.x86_64.rpm ) x86? ( http://download.brother.com/welcome/dlf006647/brscan4-0.4.6-1.i386.rpm ) http://download.brother.com/welcome/dlf006653/brother-udev-rule-type1-1.0.2-0.noarch.rpm
-_eclasses_=eutils	6e6c2737b59a4b982de6fb3ecefd87f8	multilib	1d91b03d42ab6308b5f4f6b598ed110e	rpm	f52cfa3a435468d86d3b49c357b9cb35	toolchain-funcs	b45201c4e6c096b98e250336954e64b9	udev	7752f306eec7b286d00bdb47b763e7ac
+_eclasses_=eutils	6e6c2737b59a4b982de6fb3ecefd87f8	multilib	1d91b03d42ab6308b5f4f6b598ed110e	rpm	f52cfa3a435468d86d3b49c357b9cb35	toolchain-funcs	8c7f9d80beedd16f2e5a7f612c609529	udev	7752f306eec7b286d00bdb47b763e7ac
 _md5_=75732d07c4e7961e5fafacb81dbdc8d6
