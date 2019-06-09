@@ -459,6 +459,7 @@ media-gfx/brother-mfcl6900dw-bin 1.0: Scanner driver for Brother MFC-L6900DW (br
 media-gfx/brother-mfcl6902dw-bin 1.0: Scanner driver for Brother MFC-L6902DW (brscan4)
 media-gfx/brother-mfcl8600cdw-bin 1.0: Scanner driver for Brother MFC-L8600CDW (brscan4)
 media-gfx/brother-mfcl8650cdw-bin 1.0: Scanner driver for Brother MFC-L8650CDW (brscan4)
+media-gfx/brother-mfcl8690cdw-bin 1.0: Scanner driver for Brother MFC-L8690CDW (brscan4)
 media-gfx/brother-mfcl8850cdw-bin 1.0: Scanner driver for Brother MFC-L8850CDW (brscan4)
 media-gfx/brother-mfcl9550cdw-bin 1.0: Scanner driver for Brother MFC-L9550CDW (brscan4)
 media-gfx/brother-mfct800w-bin 1.0: Scanner driver for Brother MFC-T800W (brscan4)
