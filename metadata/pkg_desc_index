@@ -513,6 +513,7 @@ net-print/brother-hll2300d-bin 1.0: Printer driver for Brother HL-L2300D (brgenm
 net-print/brother-hll2340dw-bin 1.0: Printer driver for Brother HL-L2340DW (brgenml1)
 net-print/brother-hll2360dn-bin 1.0: Printer driver for Brother HL-L2360DN (brgenml1)
 net-print/brother-hll2365dw-bin 1.0: Printer driver for Brother HL-L2365DW (brgenml1)
+net-print/brother-hll3270cdw-bin 1.0.2: Brother printer driver for HL-L3270CDW
 net-print/brother-hll8350cdw-bin 1.1.2-r1: Brother printer driver for HL-L8350CDW
 net-print/brother-mfc7360n-bin 1.0: Printer driver for Brother MFC-7360N (brgenml1)
 net-print/brother-mfc7440n-bin 3.1.0-r1: Brother printer driver (generic)
