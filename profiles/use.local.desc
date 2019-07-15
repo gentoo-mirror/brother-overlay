@@ -2,13 +2,3 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-media-gfx/brother-scan2-bin:usb - Enable this, if you want to scan over usb connection.
-media-gfx/brother-scan4-bin:usb - Enable this, if you want to scan over usb connection.
-net-print/brother-dcpj4120dw-bin:debug - Enables DEBUG var in brothers lpdwrapper script to get /tmp/br_cupsfilter_debug_log file
-net-print/brother-dcpj4120dw-bin:metric - Use A4 as default paper type, instead of Letter.
-net-print/brother-genml1-bin:avahi - Uses net-dns/avahi and sys-auth/nss-mdns to find printers with dynamically assigned IP addresses by name
-net-print/brother-hl1110-bin:avahi - Uses net-dns/avahi and sys-auth/nss-mdns to find printers with dynamically assigned IP addresses by name
-net-print/brother-hl3140cw-bin:avahi - Uses net-dns/avahi and sys-auth/nss-mdns to find printers with dynamically assigned IP addresses by name
-net-print/brother-hl3150cdw-bin:avahi - Uses net-dns/avahi and sys-auth/nss-mdns to find printers with dynamically assigned IP addresses by name
-net-print/brother-mfcj880dw-bin:debug - Enables DEBUG var in brothers lpdwrapper script to get /tmp/br_cupsfilter_debug_log file
-net-print/brother-mfcj880dw-bin:metric - Use A4 as default paper type, instead of Letter.
