@@ -463,7 +463,11 @@ media-gfx/brother-mfcl8690cdw-bin 1.0: Scanner driver for Brother MFC-L8690CDW (
 media-gfx/brother-mfcl8850cdw-bin 1.0: Scanner driver for Brother MFC-L8850CDW (brscan4)
 media-gfx/brother-mfcl9550cdw-bin 1.0: Scanner driver for Brother MFC-L9550CDW (brscan4)
 media-gfx/brother-mfct800w-bin 1.0: Scanner driver for Brother MFC-T800W (brscan4)
+media-gfx/brother-scan2-bin 0.2.5-r1: Brother scanner tool version 2
 media-gfx/brother-scan3-bin 0.2.13.1: Brother scanner driver (brscan3)
+media-gfx/brother-scan4-bin 0.4.4-r3 0.4.4-r4 0.4.4-r5 0.4.6-r1 0.4.6-r2 0.4.8: Brother scanner tool version 4
+net-print/brother-dcp1510-bin 3.0.1-r1: Brother printer driver for DCP-1510
+net-print/brother-dcp1610w-bin 3.0.1: Brother printer driver for DCP-1610W
 net-print/brother-dcp7055-bin 1.0: Printer driver for Brother DCP-7055 (brgenml1)
 net-print/brother-dcp7055w-bin 1.0: Printer driver for Brother DCP-7055W (brgenml1)
 net-print/brother-dcp7060d-bin 1.0: Printer driver for Brother DCP-7060D (brgenml1)
@@ -473,16 +477,28 @@ net-print/brother-dcp8070d-bin 1.0: Printer driver for Brother DCP-8070D (brgenm
 net-print/brother-dcp8085dn-bin 1.0: Printer driver for Brother DCP-8085DN (brgenml1)
 net-print/brother-dcp8110dn-bin 1.0: Printer driver for Brother DCP-8110DN (brgenml1)
 net-print/brother-dcp8250dn-bin 1.0: Printer driver for Brother DCP-8250DN (brgenml1)
+net-print/brother-dcp9020cdw-bin 1.1.2-r1: Brother printer driver for DCP-9020CDW & DCP-9022CDW
+net-print/brother-dcp9022cdw-bin 1.1.3: Brother printer driver for DCP-9022CDW
+net-print/brother-dcp9040cn-bin 1.0.3.1: Brother printer driver for DCP9040CN
+net-print/brother-dcp9055cdn-bin 1.1.1 1.1.1-r1 1.1.1-r2 1.1.1-r3 1.1.1-r4: Brother printer driver for DCP-9055CDN
+net-print/brother-dcpj4120dw-bin 3.0.1-r1: Brother printer driver for DCP-J4120DW
 net-print/brother-dcpl2500d-bin 1.0: Printer driver for Brother DCP-L2500D (brgenml1)
 net-print/brother-dcpl2520dw-bin 1.0: Printer driver for Brother DCP-L2520DW (brgenml1)
 net-print/brother-dcpl2540dn-bin 1.0: Printer driver for Brother DCP-L2540DN (brgenml1)
 net-print/brother-dcpl2560dw-bin 1.0: Printer driver for Brother DCP-L2560DW (brgenml1)
+net-print/brother-genml1-bin 3.1.0-r1: Generic Brother printer driver
+net-print/brother-hl1110-bin 3.0.1-r1: Brother printer driver for HL1110* HL1112*
 net-print/brother-hl2130-bin 1.0: Printer driver for Brother HL-2130 (brgenml1)
 net-print/brother-hl2135w-bin 1.0: Printer driver for Brother HL-2135W (brgenml1)
 net-print/brother-hl2240-bin 1.0: Printer driver for Brother HL-2240 (brgenml1)
 net-print/brother-hl2240d-bin 1.0: Printer driver for Brother HL-2240D (brgenml1)
 net-print/brother-hl2250dn-bin 1.0: Printer driver for Brother HL-2250DN (brgenml1)
 net-print/brother-hl2270dw-bin 1.0: Printer driver for Brother HL-2270DW (brgenml1)
+net-print/brother-hl3070cw-bin 1.1.2: Brother printer driver for HL-3070CW
+net-print/brother-hl3140cw-bin 1.1.4: Brother printer driver for HL3140CW
+net-print/brother-hl3150cdw-bin 1.1.4: Brother printer driver for HL3140CW
+net-print/brother-hl4150cdn-bin 1.1.1: Brother printer driver for HL-4150CDN
+net-print/brother-hl4570cdw-bin 1.1.1: Brother printer driver for HL-4570CDW
 net-print/brother-hl5340d-bin 1.0: Printer driver for Brother HL-5340D (brgenml1)
 net-print/brother-hl5350dn-bin 1.0: Printer driver for Brother HL-5350DN (brgenml1)
 net-print/brother-hl5350dnlt-bin 1.0: Printer driver for Brother HL-5350DNLT (brgenml1)
@@ -498,8 +514,13 @@ net-print/brother-hll2300d-bin 1.0: Printer driver for Brother HL-L2300D (brgenm
 net-print/brother-hll2340dw-bin 1.0: Printer driver for Brother HL-L2340DW (brgenml1)
 net-print/brother-hll2360dn-bin 1.0: Printer driver for Brother HL-L2360DN (brgenml1)
 net-print/brother-hll2365dw-bin 1.0: Printer driver for Brother HL-L2365DW (brgenml1)
+net-print/brother-hll3270cdw-bin 1.0.2: Brother printer driver for HL-L3270CDW
+net-print/brother-hll8350cdw-bin 1.1.2-r1: Brother printer driver for HL-L8350CDW
+net-print/brother-mfc-j985dw-bin 1.0.0-r1: CUPS driver for the Brother MFC-J985DW
 net-print/brother-mfc7360n-bin 1.0: Printer driver for Brother MFC-7360N (brgenml1)
-net-print/brother-mfc7460dn-bin 1.0: Printer driver for Brother MFC-7460DN (brgenml1)
+net-print/brother-mfc7440n-bin 3.1.0-r1: Brother printer driver (generic)
+net-print/brother-mfc7460dn-bin 1.0 2.0.4: Brother MFC-7460DN printer driver
+net-print/brother-mfc7820n-bin 2.0.1-r1: Brother printer driver for MFC-7820N
 net-print/brother-mfc7860dw-bin 1.0: Printer driver for Brother MFC-7860DW (brgenml1)
 net-print/brother-mfc8370dn-bin 1.0: Printer driver for Brother MFC-8370DN (brgenml1)
 net-print/brother-mfc8380dn-bin 1.0: Printer driver for Brother MFC-8380DN (brgenml1)
@@ -509,6 +530,18 @@ net-print/brother-mfc8880dn-bin 1.0: Printer driver for Brother MFC-8880DN (brge
 net-print/brother-mfc8890dw-bin 1.0: Printer driver for Brother MFC-8890DW (brgenml1)
 net-print/brother-mfc8950dw-bin 1.0: Printer driver for Brother MFC-8950DW (brgenml1)
 net-print/brother-mfc8950dwt-bin 1.0: Printer driver for Brother MFC-8950DWT (brgenml1)
+net-print/brother-mfc9130cw-bin 1.1.2: Brother printer driver for MFC-9130CW
+net-print/brother-mfc9140cdn-bin 1.0: Brother printer driver for MFC-9140CDN
+net-print/brother-mfc9320cw-bin 1.1.2: Brother printer driver for MFC-9320CW
+net-print/brother-mfc9330cdw-bin 1.1.2: Brother printer driver for MFC-9330CDW
+net-print/brother-mfc9332cdw-bin 1.1.4: Brother printer driver for MFC-9332CDW
+net-print/brother-mfc9340cdw-bin 1.1.2 1.1.2-r1 1.1.2-r2: Brother printer driver for MFC-9340CDW
+net-print/brother-mfcj475dw-bin 3.0.0-r1: Brother MFC-J475DW lpr+cupswrapper (printer) drivers
+net-print/brother-mfcj485dw-bin 1.0.0: Brother printer drive for mfcj485dw
+net-print/brother-mfcj880dw-bin 1.0.0-r0: Brother MFC-J880DW lpr+cupswrapper (printer) drivers
 net-print/brother-mfcl2700dw-bin 1.0: Printer driver for Brother MFC-L2700DW (brgenml1)
 net-print/brother-mfcl2720dw-bin 1.0: Printer driver for Brother MFC-L2720DW (brgenml1)
 net-print/brother-mfcl2740dw-bin 1.0: Printer driver for Brother MFC-L2740DW (brgenml1)
+net-print/brother-mfcl3770cdw-bin 1.0.2: Brother printer drive for mfcl3770cdw
+net-print/brother-mfcl8690cdw-bin 1.4.0: Brother printer drive for mfcl8690cdw
+net-print/brother-mfcl8900cdw-bin 1.2.0: Brother printer driver for mfcl8900cdw
