@@ -539,6 +539,7 @@ net-print/brother-mfc9332cdw-bin 1.1.4: Brother printer driver for MFC-9332CDW
 net-print/brother-mfc9340cdw-bin 1.1.2 1.1.2-r1 1.1.2-r2: Brother printer driver for MFC-9340CDW
 net-print/brother-mfcj475dw-bin 3.0.0-r1: Brother MFC-J475DW lpr+cupswrapper (printer) drivers
 net-print/brother-mfcj485dw-bin 1.0.0: Brother printer drive for mfcj485dw
+net-print/brother-mfcj5730dw-bin 1.0.1: Brother MFC-J5730DW lpr+cupswrapper (printer) drivers
 net-print/brother-mfcj880dw-bin 1.0.0-r0: Brother MFC-J880DW lpr+cupswrapper (printer) drivers
 net-print/brother-mfcl2700dw-bin 1.0: Printer driver for Brother MFC-L2700DW (brgenml1)
 net-print/brother-mfcl2720dw-bin 1.0: Printer driver for Brother MFC-L2720DW (brgenml1)
