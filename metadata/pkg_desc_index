@@ -518,6 +518,7 @@ net-print/brother-hll2365dw-bin 1.0: Printer driver for Brother HL-L2365DW (brge
 net-print/brother-hll3270cdw-bin 1.0.2: Brother printer driver for HL-L3270CDW
 net-print/brother-hll8350cdw-bin 1.1.2-r1: Brother printer driver for HL-L8350CDW
 net-print/brother-mfc-j985dw-bin 1.0.0-r1: CUPS driver for the Brother MFC-J985DW
+net-print/brother-mfc6490cw-bin 1.1.2_p2: Brother printer driver for MFC-6490CW
 net-print/brother-mfc7360n-bin 1.0: Printer driver for Brother MFC-7360N (brgenml1)
 net-print/brother-mfc7440n-bin 3.1.0-r1: Brother printer driver (generic)
 net-print/brother-mfc7460dn-bin 1.0 2.0.4: Brother MFC-7460DN printer driver
