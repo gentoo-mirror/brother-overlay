@@ -1,6 +1,5 @@
 # Copyright 1999-2016 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Id$
 
 # Original made for Brother MFC-J880DW printer by Chris Morgenstern[machredsch]
 
@@ -19,7 +18,7 @@ SRC_URI="http://download.brother.com/welcome/dlf102036/${MODEL}lpr-${PV}-${BR_PR
 		# http://download.brother.com/welcome/dlf102037/${MODEL}cupswrapper-${PV}-${BR_PR}.i386.rpm
 LICENSE="GPL-2+ brother-eula no-source-code"
 SLOT="0"
-KEYWORDS="x86 amd64"
+KEYWORDS="amd64 x86"
 IUSE="+metric -debug"
 RESTRICT="strip"
 
