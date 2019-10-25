@@ -6,4 +6,4 @@ KEYWORDS=amd64 x86
 LICENSE=GPL-2
 RDEPEND=media-gfx/brother-scan4-bin
 SLOT=0
-_md5_=e61eb2f7aee19b3d536272778cb6e264
+_md5_=1b551a0d23d87b6f42a2aef5f508ad9b
