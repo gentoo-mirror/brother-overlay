@@ -465,7 +465,7 @@ media-gfx/brother-mfcl8850cdw-bin 1.0: Scanner driver for Brother MFC-L8850CDW (
 media-gfx/brother-mfcl9550cdw-bin 1.0: Scanner driver for Brother MFC-L9550CDW (brscan4)
 media-gfx/brother-mfct800w-bin 1.0: Scanner driver for Brother MFC-T800W (brscan4)
 media-gfx/brother-scan2-bin 0.2.5-r1: Brother scanner tool version 2
-media-gfx/brother-scan3-bin 0.2.13.1: Brother scanner driver (brscan3)
+media-gfx/brother-scan3-bin 0.2.13_p1: Brother scanner driver (brscan3)
 media-gfx/brother-scan4-bin 0.4.4-r3 0.4.4-r4 0.4.4-r5 0.4.6-r1 0.4.6-r2 0.4.8: Brother scanner tool version 4
 net-print/brother-dcp1510-bin 3.0.1-r1: Brother printer driver for DCP-1510
 net-print/brother-dcp1610w-bin 3.0.1: Brother printer driver for DCP-1610W
@@ -480,7 +480,7 @@ net-print/brother-dcp8110dn-bin 1.0: Printer driver for Brother DCP-8110DN (brge
 net-print/brother-dcp8250dn-bin 1.0: Printer driver for Brother DCP-8250DN (brgenml1)
 net-print/brother-dcp9020cdw-bin 1.1.2-r1: Brother printer driver for DCP-9020CDW & DCP-9022CDW
 net-print/brother-dcp9022cdw-bin 1.1.3: Brother printer driver for DCP-9022CDW
-net-print/brother-dcp9040cn-bin 1.0.3.1: Brother printer driver for DCP9040CN
+net-print/brother-dcp9040cn-bin 1.0.3_p1: Brother printer driver for DCP9040CN
 net-print/brother-dcp9055cdn-bin 1.1.1 1.1.1-r1 1.1.1-r2 1.1.1-r3 1.1.1-r4: Brother printer driver for DCP-9055CDN
 net-print/brother-dcpj4120dw-bin 3.0.1-r1: Brother printer driver for DCP-J4120DW
 net-print/brother-dcpl2500d-bin 1.0: Printer driver for Brother DCP-L2500D (brgenml1)
