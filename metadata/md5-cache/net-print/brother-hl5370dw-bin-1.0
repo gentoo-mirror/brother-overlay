@@ -6,4 +6,4 @@ KEYWORDS=amd64 x86
 LICENSE=GPL-2
 RDEPEND=net-print/brother-genml1-bin
 SLOT=0
-_md5_=ffd8259674f5ce73cc49d98551e0ae18
+_md5_=2866c86296e00b717c23072a93a6a5ee
