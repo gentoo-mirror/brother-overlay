@@ -1,0 +1,14 @@
+DEFINED_PHASES=install postinst unpack
+DEPEND=>=net-print/cups-2.2.7 >=app-arch/rpm2targz-9.0.0.3g
+DESCRIPTION=Brother printer drive for MFC-J6920DW
+EAPI=7
+HOMEPAGE=https://support.brother.com/g/b/downloadhowto.aspx?c=us&lang=en&prod=mfcj6920dw_us_eu_as
+IUSE=scanner
+KEYWORDS=~amd64 ~x86
+LICENSE=brother-eula
+RDEPEND=>=net-print/cups-2.2.7 scanner? ( >=media-gfx/brother-mfcj6920dw-bin-1.0 )
+RESTRICT=mirror strip
+SLOT=0
+SRC_URI=https://download.brother.com/welcome/dlf100970/mfcj6920dwcupswrapper-3.0.0-1.i386.rpm https://download.brother.com/welcome/dlf100968/mfcj6920dwlpr-3.0.0-1.i386.rpm
+_eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5	multilib	1d91b03d42ab6308b5f4f6b598ed110e	rpm	f52cfa3a435468d86d3b49c357b9cb35	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
+_md5_=89f3217d2d8ace1fdb09da0ac372bafd
