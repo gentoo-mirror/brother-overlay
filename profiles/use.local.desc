@@ -3,6 +3,7 @@
 # * generated automatically using pmaint *
 
 media-gfx/brother-scan2-bin:usb - Enable this, if you want to scan over usb connection.
+media-gfx/brother-scan4-bin:avahi - Enable this, if you want to find the scanner via avahi.
 media-gfx/brother-scan4-bin:usb - Enable this, if you want to scan over usb connection.
 net-print/brother-dcpj4120dw-bin:debug - Enables DEBUG var in brothers lpdwrapper script to get /tmp/br_cupsfilter_debug_log file
 net-print/brother-dcpj4120dw-bin:metric - Use A4 as default paper type, instead of Letter.
