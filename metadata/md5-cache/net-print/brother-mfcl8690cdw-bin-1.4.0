@@ -1,5 +1,6 @@
+BDEPEND=>=app-arch/rpm2targz-9.0.0.3g
 DEFINED_PHASES=install unpack
-DEPEND=>=net-print/cups-2.2.7 >=app-arch/rpm2targz-9.0.0.3g
+DEPEND=>=net-print/cups-2.2.7
 DESCRIPTION=Brother printer drive for mfcl8690cdw
 EAPI=7
 HOMEPAGE=https://support.brother.com/g/b/downloadhowto.aspx?c=us&lang=en&prod=mfcl8690cdw_us_eu_as
@@ -10,5 +11,5 @@ RDEPEND=>=net-print/cups-2.2.7 scanner? ( >=media-gfx/brother-mfcl8690cdw-bin-1.
 RESTRICT=mirror strip
 SLOT=0
 SRC_URI=https://download.brother.com/welcome/dlf103224/mfcl8690cdwcupswrapper-1.4.0-0.i386.rpm https://download.brother.com/welcome/dlf103215/mfcl8690cdwlpr-1.3.0-0.i386.rpm
-_eclasses_=estack	686eaab303305a908fd57b2fd7617800	eutils	fcb2aa98e1948b835b5ae66ca52868c5	multilib	318e8ae683e57fd3ccd0d31a769d8ee8	rpm	c1d552831d4ee9c7bb82c35545c264c8	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
+_eclasses_=estack	686eaab303305a908fd57b2fd7617800	eutils	fcb2aa98e1948b835b5ae66ca52868c5	multilib	318e8ae683e57fd3ccd0d31a769d8ee8	rpm	760ff223c2c4299b68ea901e24c4cabd	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
 _md5_=3e5cef1ec10269fab46eeb0cb626980a
