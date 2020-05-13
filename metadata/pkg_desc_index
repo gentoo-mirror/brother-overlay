@@ -496,6 +496,7 @@ net-print/brother-hl2240-bin 1.0: Printer driver for Brother HL-2240 (brgenml1)
 net-print/brother-hl2240d-bin 1.0: Printer driver for Brother HL-2240D (brgenml1)
 net-print/brother-hl2250dn-bin 1.0: Printer driver for Brother HL-2250DN (brgenml1)
 net-print/brother-hl2270dw-bin 1.0: Printer driver for Brother HL-2270DW (brgenml1)
+net-print/brother-hl3040cn-bin 1.1.2: Brother printer driver for HL-3040CN
 net-print/brother-hl3070cw-bin 1.1.2: Brother printer driver for HL-3070CW
 net-print/brother-hl3140cw-bin 1.1.4: Brother printer driver for HL3140CW
 net-print/brother-hl3150cdw-bin 1.1.4: Brother printer driver for HL3140CW
