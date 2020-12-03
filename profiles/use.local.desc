@@ -11,6 +11,7 @@ net-print/brother-genml1-bin:avahi - Uses net-dns/avahi and sys-auth/nss-mdns to
 net-print/brother-hl1110-bin:avahi - Uses net-dns/avahi and sys-auth/nss-mdns to find printers with dynamically assigned IP addresses by name
 net-print/brother-hl3140cw-bin:avahi - Uses net-dns/avahi and sys-auth/nss-mdns to find printers with dynamically assigned IP addresses by name
 net-print/brother-hl3150cdw-bin:avahi - Uses net-dns/avahi and sys-auth/nss-mdns to find printers with dynamically assigned IP addresses by name
+net-print/brother-hl3152cdw-bin:avahi - Uses net-dns/avahi and sys-auth/nss-mdns to find printers with dynamically assigned IP addresses by name
 net-print/brother-mfc6490cw-bin:debug - Enables DEBUG var in brothers lpdwrapper script to get /tmp/br_cupsfilter_debug_log file
 net-print/brother-mfc6490cw-bin:metric - Use A4 as default paper type, instead of Letter.
 net-print/brother-mfc7440n-bin:avahi - Uses net-dns/avahi and sys-auth/nss-mdns to find printers with dynamically assigned IP addresses by name
