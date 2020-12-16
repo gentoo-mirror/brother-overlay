@@ -11,5 +11,5 @@ RDEPEND=net-print/cups app-text/psutils app-text/ghostscript-gpl app-text/a2ps !
 RESTRICT=mirror strip
 SLOT=0
 SRC_URI=https://download.brother.com/welcome/dlf006179/mfc6490cwlpr-1.1.2-2.i386.rpm https://download.brother.com/welcome/dlf006678/brcups_ink4_src_1.1.2-x.tar.gz
-_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	estack	686eaab303305a908fd57b2fd7617800	eutils	2d5b3f4b315094768576b6799e4f926e	l10n	8cdd85e169b835d518bc2fd59f780d8e	rpm	760ff223c2c4299b68ea901e24c4cabd	wrapper	4251d4c84c25f59094fd557e0063a974
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	estack	686eaab303305a908fd57b2fd7617800	eutils	69bd92aa099f708425db9f1f01d61213	l10n	8cdd85e169b835d518bc2fd59f780d8e	rpm	760ff223c2c4299b68ea901e24c4cabd	wrapper	4251d4c84c25f59094fd557e0063a974
 _md5_=dd5de93bfeadd61eb312a3fad64e2519
