@@ -554,3 +554,4 @@ net-print/brother-mfcl3730cdn-bin 1.0: Brother printer driver for mfcl3730cdn
 net-print/brother-mfcl3770cdw-bin 1.0.2: Brother printer drive for mfcl3770cdw
 net-print/brother-mfcl8690cdw-bin 1.4.0 1.4.0-r1: Brother printer drive for mfcl8690cdw
 net-print/brother-mfcl8900cdw-bin 1.2.0: Brother printer driver for mfcl8900cdw
+net-print/brother-ql1110nwb-bin 2.1.4: Printer driver for Brother QL-1110NWB
