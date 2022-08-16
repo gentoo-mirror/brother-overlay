@@ -478,6 +478,7 @@ net-print/brother-dcp8070d-bin 1.0: Printer driver for Brother DCP-8070D (brgenm
 net-print/brother-dcp8085dn-bin 1.0: Printer driver for Brother DCP-8085DN (brgenml1)
 net-print/brother-dcp8110dn-bin 1.0: Printer driver for Brother DCP-8110DN (brgenml1)
 net-print/brother-dcp8250dn-bin 1.0: Printer driver for Brother DCP-8250DN (brgenml1)
+net-print/brother-dcp9022cdw-bin 1.1.3: Brother printer driver for DCP-9022CDW
 net-print/brother-dcp9040cn-bin 1.0.3_p1: Brother printer driver for DCP9040CN
 net-print/brother-dcp9055cdn-bin 1.1.1 1.1.1-r1 1.1.1-r2 1.1.1-r3 1.1.1-r4: Brother printer driver for DCP-9055CDN
 net-print/brother-dcpj4120dw-bin 3.0.1-r1: Brother printer driver for DCP-J4120DW
