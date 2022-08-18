@@ -1,0 +1,16 @@
+BDEPEND=app-arch/rpm2targz
+DEFINED_PHASES=install postinst unpack
+DEPEND=net-print/cups avahi? ( sys-auth/nss-mdns net-dns/avahi )
+DESCRIPTION=Brother printer driver for MFC-9130CW
+EAPI=8
+HOMEPAGE=http://support.brother.com
+INHERIT=rpm multilib
+IUSE=+avahi
+KEYWORDS=amd64
+LICENSE=brother-eula
+RDEPEND=net-print/cups avahi? ( sys-auth/nss-mdns net-dns/avahi )
+RESTRICT=mirror strip
+SLOT=0
+SRC_URI=https://download.brother.com/welcome/dlf100409/mfc9130cwlpr-1.1.2-1.i386.rpm https://download.brother.com/welcome/dlf100411/mfc9130cwcupswrapper-1.1.4-0.i386.rpm
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	multilib	5ca4e49abed8e3a2f7b56920eadee157	toolchain-funcs	1542e649be915f43f6908a9e93909961
+_md5_=aa1ed7f8e29d810a153413a3ebc32eb0
