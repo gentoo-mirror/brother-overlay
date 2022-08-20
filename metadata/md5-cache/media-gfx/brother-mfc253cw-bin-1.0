@@ -1,9 +1,0 @@
-DEFINED_PHASES=postinst
-DESCRIPTION=Scanner driver for Brother MFC-253CW (brscan3)
-EAPI=6
-HOMEPAGE=http://support.brother.com
-KEYWORDS=amd64 x86
-LICENSE=GPL-2
-RDEPEND=media-gfx/brother-scan3-bin
-SLOT=0
-_md5_=b3b3454c92b3bd6184ef5f51f72b7356

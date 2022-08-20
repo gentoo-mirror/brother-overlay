@@ -1,0 +1,9 @@
+DEFINED_PHASES=-
+DESCRIPTION=Printer driver for Brother MFC-7460DN (brgenml1)
+EAPI=8
+HOMEPAGE=http://support.brother.com
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=net-print/brother-genml1-bin
+SLOT=0
+_md5_=ba62ff99e36fdc79e2b6e4b510609a79

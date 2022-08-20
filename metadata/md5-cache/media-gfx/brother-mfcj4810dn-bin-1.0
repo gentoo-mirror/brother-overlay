@@ -1,9 +1,0 @@
-DEFINED_PHASES=postinst
-DESCRIPTION=Scanner driver for Brother MFC-J4810DN (brscan4)
-EAPI=6
-HOMEPAGE=http://support.brother.com
-KEYWORDS=amd64 x86
-LICENSE=GPL-2
-RDEPEND=media-gfx/brother-scan4-bin
-SLOT=0
-_md5_=74801e2524a3a925f94f638ca781655d

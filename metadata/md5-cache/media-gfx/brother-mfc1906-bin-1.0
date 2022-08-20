@@ -1,9 +1,0 @@
-DEFINED_PHASES=postinst
-DESCRIPTION=Scanner driver for Brother MFC-1906 (brscan4)
-EAPI=6
-HOMEPAGE=http://support.brother.com
-KEYWORDS=amd64 x86
-LICENSE=GPL-2
-RDEPEND=media-gfx/brother-scan4-bin
-SLOT=0
-_md5_=ad5d088a837558f3d56f633a54df469a

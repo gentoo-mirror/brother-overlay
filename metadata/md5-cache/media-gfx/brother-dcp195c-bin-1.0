@@ -1,9 +1,0 @@
-DEFINED_PHASES=postinst
-DESCRIPTION=Scanner driver for Brother DCP-195C (brscan3)
-EAPI=6
-HOMEPAGE=http://support.brother.com
-KEYWORDS=amd64 x86
-LICENSE=GPL-2
-RDEPEND=media-gfx/brother-scan3-bin
-SLOT=0
-_md5_=ae3aae581beb63b6e3d598afbec9dee9

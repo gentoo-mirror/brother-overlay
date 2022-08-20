@@ -1,9 +1,0 @@
-DEFINED_PHASES=postinst
-DESCRIPTION=Scanner driver for Brother DCP-540CN (brscan2)
-EAPI=6
-HOMEPAGE=http://support.brother.com
-KEYWORDS=amd64 x86
-LICENSE=GPL-2
-RDEPEND=media-gfx/brother-scan2-bin
-SLOT=0
-_md5_=ebf3838b849d7e2057468374e63a3fbb

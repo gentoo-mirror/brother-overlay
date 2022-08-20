@@ -1,0 +1,9 @@
+DEFINED_PHASES=-
+DESCRIPTION=Printer driver for Brother HL-2270DW (brgenml1)
+EAPI=8
+HOMEPAGE=http://support.brother.com
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=net-print/brother-genml1-bin
+SLOT=0
+_md5_=75853c9c9a5c083a2b735b1c4e1893c2

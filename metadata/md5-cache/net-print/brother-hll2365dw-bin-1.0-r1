@@ -1,0 +1,9 @@
+DEFINED_PHASES=-
+DESCRIPTION=Printer driver for Brother HL-L2365DW (brgenml1)
+EAPI=8
+HOMEPAGE=http://support.brother.com
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=net-print/brother-genml1-bin
+SLOT=0
+_md5_=91707e17d0cf78a9c3fe6ce2ab845ed2

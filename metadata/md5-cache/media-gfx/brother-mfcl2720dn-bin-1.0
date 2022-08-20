@@ -1,9 +1,0 @@
-DEFINED_PHASES=postinst
-DESCRIPTION=Scanner driver for Brother MFC-L2720DN (brscan4)
-EAPI=6
-HOMEPAGE=http://support.brother.com
-KEYWORDS=amd64 x86
-LICENSE=GPL-2
-RDEPEND=media-gfx/brother-scan4-bin
-SLOT=0
-_md5_=bc91bd5e7b2b85a40eb3e7078a2a251f

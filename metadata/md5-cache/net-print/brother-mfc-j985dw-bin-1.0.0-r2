@@ -1,0 +1,13 @@
+BDEPEND=app-arch/rpm2targz
+DEFINED_PHASES=compile install unpack
+DESCRIPTION=CUPS driver for the Brother MFC-J985DW
+EAPI=8
+HOMEPAGE=http://support.brother.com
+INHERIT=rpm
+KEYWORDS=~amd64 ~x86
+LICENSE=brother-eula GPL-2+
+RDEPEND=net-print/cups
+SLOT=0
+SRC_URI=https://download.brother.com/welcome/dlf102746/mfcj985dwlpr-1.0.0-0.i386.rpm https://download.brother.com/welcome/dlf102750/mfcj985dw_cupswrapper_GPL_source_1.0.0-0.tar.gz
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0
+_md5_=41770e2e4bf2117831048226b371676b

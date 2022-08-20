@@ -1,0 +1,9 @@
+DEFINED_PHASES=-
+DESCRIPTION=Printer driver for Brother MFC-8370DN (brgenml1)
+EAPI=8
+HOMEPAGE=http://support.brother.com
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=net-print/brother-genml1-bin
+SLOT=0
+_md5_=db5797885aa23794b7991e22d87deba5

@@ -1,0 +1,16 @@
+BDEPEND=app-arch/rpm2targz
+DEFINED_PHASES=compile configure install postinst prepare unpack
+DEPEND=net-print/cups
+DESCRIPTION=Brother printer driver for MFC-6490CW
+EAPI=8
+HOMEPAGE=http://support.brother.com
+INHERIT=rpm
+IUSE=+metric debug
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2 brother-eula no-source-code
+RDEPEND=net-print/cups app-text/psutils app-text/ghostscript-gpl app-text/a2ps !net-print/brother-mfc6490cw-lpr !net-print/brother-mfc6490cw-cups
+RESTRICT=mirror strip
+SLOT=0
+SRC_URI=https://download.brother.com/welcome/dlf006179/mfc6490cwlpr-1.1.2-2.i386.rpm https://download.brother.com/welcome/dlf006678/brcups_ink4_src_1.1.2-x.tar.gz
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0
+_md5_=6d778876df044f86f192bcdf731cbedc

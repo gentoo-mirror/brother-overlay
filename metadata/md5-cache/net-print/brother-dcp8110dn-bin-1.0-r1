@@ -1,0 +1,9 @@
+DEFINED_PHASES=-
+DESCRIPTION=Printer driver for Brother DCP-8110DN (brgenml1)
+EAPI=8
+HOMEPAGE=http://support.brother.com
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=net-print/brother-genml1-bin
+SLOT=0
+_md5_=900e364fee230b4181bf4c45ea95aac7

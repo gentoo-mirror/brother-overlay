@@ -1,0 +1,15 @@
+BDEPEND=app-arch/rpm2targz
+DEFINED_PHASES=install setup unpack
+DEPEND=net-print/cups
+DESCRIPTION=Brother printer driver for DCP-1510
+EAPI=8
+HOMEPAGE=http://support.brother.com
+INHERIT=rpm linux-info
+KEYWORDS=amd64 x86
+LICENSE=brother-eula GPL-2
+RDEPEND=net-print/cups
+RESTRICT=mirror strip
+SLOT=0
+SRC_URI=http://www.brother.com/pub/bsc/linux/dlf/dcp1510cupswrapper-3.0.1-1.i386.rpm http://www.brother.com/pub/bsc/linux/dlf/dcp1510lpr-3.0.1-1.i386.rpm
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157	linux-info	56708ddc53d8b607ed88fd97a56e59dc
+_md5_=3da6b9053aad0e0356141e6df5f06144

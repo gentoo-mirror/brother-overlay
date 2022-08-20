@@ -1,0 +1,16 @@
+BDEPEND=app-arch/rpm2targz
+DEFINED_PHASES=install postinst setup unpack
+DEPEND=net-print/cups avahi? ( net-dns/avahi sys-auth/nss-mdns )
+DESCRIPTION=Brother printer driver for HL3140CW
+EAPI=8
+HOMEPAGE=http://support.brother.com
+INHERIT=rpm linux-info multilib
+IUSE=avahi
+KEYWORDS=amd64 x86
+LICENSE=brother-eula GPL-2
+RDEPEND=net-print/cups avahi? ( net-dns/avahi sys-auth/nss-mdns )
+RESTRICT=mirror strip
+SLOT=0
+SRC_URI=http://support.brother.com/g/b/files/dlf/dlf007067/hl3140cwlpr-1.1.2-1.i386.rpm http://download.brother.com/welcome/dlf007069/hl3140cwcupswrapper-1.1.4-0.i386.rpm
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157	linux-info	56708ddc53d8b607ed88fd97a56e59dc
+_md5_=04d076a227924a9ed74ecf7c15a51f14

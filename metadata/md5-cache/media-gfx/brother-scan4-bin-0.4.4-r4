@@ -1,0 +1,16 @@
+BDEPEND=app-arch/rpm2targz
+DEFINED_PHASES=install postinst unpack
+DEPEND=virtual/libusb:0 media-gfx/sane-backends
+DESCRIPTION=Brother scanner tool version 4
+EAPI=8
+HOMEPAGE=http://support.brother.com/g/s/id/linux/en/index.html
+INHERIT=rpm
+IUSE=usb
+KEYWORDS=amd64 x86
+LICENSE=GPL-2 brother-eula no-source-code
+RDEPEND=virtual/libusb:0 media-gfx/sane-backends usb? ( media-gfx/sane-backends[usb] )
+RESTRICT=mirror strip
+SLOT=0
+SRC_URI=amd64? ( http://download.brother.com/welcome/dlf006648/brscan4-0.4.4-3.x86_64.rpm ) x86? ( http://download.brother.com/welcome/dlf006647/brscan4-0.4.4-3.i386.rpm )
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0
+_md5_=80b9a30478a4ffb93827097ec412165c
