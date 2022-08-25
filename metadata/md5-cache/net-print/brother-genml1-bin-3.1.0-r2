@@ -1,5 +1,5 @@
 BDEPEND=app-arch/rpm2targz
-DEFINED_PHASES=install postinst prepare setup unpack
+DEFINED_PHASES=install postinst setup unpack
 DEPEND=net-print/cups avahi? ( net-dns/avahi sys-auth/nss-mdns )
 DESCRIPTION=Generic Brother printer driver
 EAPI=8
@@ -13,4 +13,4 @@ RESTRICT=mirror strip
 SLOT=0
 SRC_URI=http://download.brother.com/welcome/dlf101124/brgenml1lpr-3.1.0-1.i386.rpm http://download.brother.com/welcome/dlf101126/brgenml1cupswrapper-3.1.0-1.i386.rpm
 _eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157	linux-info	56708ddc53d8b607ed88fd97a56e59dc
-_md5_=2572829dae9a421527e37ddf46f839c9
+_md5_=9d0472a8ec403b47f2fb90e5224af70b
