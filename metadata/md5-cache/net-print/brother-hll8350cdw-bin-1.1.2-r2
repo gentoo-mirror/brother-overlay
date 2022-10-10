@@ -11,5 +11,5 @@ RDEPEND=net-print/cups
 RESTRICT=mirror strip
 SLOT=0
 SRC_URI=http://download.brother.com/welcome/dlf101040/hll8350cdwlpr-1.1.2-1.i386.rpm http://download.brother.com/welcome/dlf101038/hll8350cdwcupswrapper-1.1.2-1.i386.rpm
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	multilib	5ca4e49abed8e3a2f7b56920eadee157	toolchain-funcs	1542e649be915f43f6908a9e93909961
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	multilib	5ca4e49abed8e3a2f7b56920eadee157	toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144
 _md5_=4ad93fea3e82d37d69303d1f8d2e264d
