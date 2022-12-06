@@ -11,5 +11,5 @@ RDEPEND=net-print/cups
 RESTRICT=mirror strip
 SLOT=0
 SRC_URI=http://download.brother.com/welcome/dlf005916/hl3070cwlpr-1.1.2-1.i386.rpm http://download.brother.com/welcome/dlf005918/hl3070cwcupswrapper-1.1.2-2.i386.rpm
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	toolchain-funcs	959e1d99122907eb98a3a660297a967e	multilib	5ca4e49abed8e3a2f7b56920eadee157	linux-info	7a3f8b289bc442b8151fb29bfefe3b76
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	toolchain-funcs	37a4612ce5522df5a100359a8dbc8491	multilib	5ca4e49abed8e3a2f7b56920eadee157	linux-info	7a3f8b289bc442b8151fb29bfefe3b76
 _md5_=858b8d79b4de7e7a2e916aa2e7c8c76f
