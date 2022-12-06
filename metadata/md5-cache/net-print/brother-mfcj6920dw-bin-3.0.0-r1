@@ -12,5 +12,5 @@ RDEPEND=>=net-print/cups-2.2.7 scanner? ( >=media-gfx/brother-mfcj6920dw-bin-1.0
 RESTRICT=mirror strip
 SLOT=0
 SRC_URI=https://download.brother.com/welcome/dlf100970/mfcj6920dwcupswrapper-3.0.0-1.i386.rpm https://download.brother.com/welcome/dlf100968/mfcj6920dwlpr-3.0.0-1.i386.rpm
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	multilib	5ca4e49abed8e3a2f7b56920eadee157	toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	multilib	5ca4e49abed8e3a2f7b56920eadee157	toolchain-funcs	959e1d99122907eb98a3a660297a967e
 _md5_=484e517a3cc5851ccca1f370ee64c0b1
