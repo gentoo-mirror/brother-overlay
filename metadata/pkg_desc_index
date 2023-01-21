@@ -471,6 +471,7 @@ net-print/brother-dcp1510-bin 3.0.1-r2: Brother printer driver for DCP-1510
 net-print/brother-dcp1610w-bin 3.0.1-r1: Brother printer driver for DCP-1610W
 net-print/brother-dcp7055-bin 1.0-r1: Printer driver for Brother DCP-7055 (brgenml1)
 net-print/brother-dcp7055w-bin 1.0-r1: Printer driver for Brother DCP-7055W (brgenml1)
+net-print/brother-dcp7057-bin 1.0-r1: Printer driver for Brother DCP-7057 (brgenml1)
 net-print/brother-dcp7060d-bin 1.0-r1: Printer driver for Brother DCP-7060D (brgenml1)
 net-print/brother-dcp7065dn-bin 1.0-r1: Printer driver for Brother DCP-7065DN (brgenml1)
 net-print/brother-dcp7070dw-bin 1.0-r1: Printer driver for Brother DCP-7070DW (brgenml1)
