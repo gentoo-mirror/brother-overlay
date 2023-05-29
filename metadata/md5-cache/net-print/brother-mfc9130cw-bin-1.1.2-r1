@@ -12,5 +12,5 @@ RDEPEND=net-print/cups avahi? ( sys-auth/nss-mdns net-dns/avahi )
 RESTRICT=mirror strip
 SLOT=0
 SRC_URI=https://download.brother.com/welcome/dlf100409/mfc9130cwlpr-1.1.2-1.i386.rpm https://download.brother.com/welcome/dlf100411/mfc9130cwcupswrapper-1.1.4-0.i386.rpm
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	multilib	104e1332efb829e2f7cbf89307a474f1	toolchain-funcs	14a8ae365191b518fad51caad7a08f3e
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	multilib	c19072c3cd7ac5cb21de013f7e9832e0	toolchain-funcs	14a8ae365191b518fad51caad7a08f3e
 _md5_=aa1ed7f8e29d810a153413a3ebc32eb0
