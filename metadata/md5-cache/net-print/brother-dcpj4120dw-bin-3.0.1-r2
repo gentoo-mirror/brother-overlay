@@ -12,5 +12,5 @@ RDEPEND=net-print/cups app-text/ghostscript-gpl app-text/a2ps
 RESTRICT=mirror strip
 SLOT=0
 SRC_URI=https://download.brother.com/welcome/dlf101557/dcpj4120dwlpr-3.0.1-1.i386.rpm http://download.brother.com/welcome/dlf101559/brother_dcpj4120dw_GPL_source_3.0.1-1.tar.gz
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	multilib	c19072c3cd7ac5cb21de013f7e9832e0	toolchain-funcs	14a8ae365191b518fad51caad7a08f3e	linux-info	c4f1201b96a8a2c1f3b86cc8b2c71c91
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	multilib	c19072c3cd7ac5cb21de013f7e9832e0	toolchain-funcs	513c31b3346458ed1f3878b57da6d61c	linux-info	c4f1201b96a8a2c1f3b86cc8b2c71c91
 _md5_=5f1928531c0de3af89cf3b1987f7d18d
