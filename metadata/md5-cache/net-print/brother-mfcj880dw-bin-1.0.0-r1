@@ -12,5 +12,5 @@ RDEPEND=net-print/cups
 RESTRICT=strip
 SLOT=0
 SRC_URI=http://download.brother.com/welcome/dlf102036/mfcj880dwlpr-1.0.0-0.i386.rpm http://download.brother.com/welcome/dlf102044/mfcj880dw_cupswrapper_GPL_source_1.0.0-0.tar.gz
-_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	745ef34afb8c31915d9d42a6aca23a35	multilib	c19072c3cd7ac5cb21de013f7e9832e0	toolchain-funcs	edeef89edaf21d30225d31702ab117ac
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	745ef34afb8c31915d9d42a6aca23a35	multilib	c19072c3cd7ac5cb21de013f7e9832e0	toolchain-funcs	eed10cf5e5a06916e654d31f5a1925cc
 _md5_=60a3ded640e4ed70627fc1c20583bd73

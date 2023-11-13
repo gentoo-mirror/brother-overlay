@@ -11,5 +11,5 @@ RDEPEND=net-print/cups
 RESTRICT=mirror strip
 SLOT=0
 SRC_URI=https://download.brother.com/welcome/dlf005904/hl3040cnlpr-1.1.2-1.i386.rpm https://download.brother.com/welcome/dlf005906/hl3040cncupswrapper-1.1.2-2.i386.rpm
-_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	745ef34afb8c31915d9d42a6aca23a35	multilib	c19072c3cd7ac5cb21de013f7e9832e0	toolchain-funcs	edeef89edaf21d30225d31702ab117ac
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	745ef34afb8c31915d9d42a6aca23a35	multilib	c19072c3cd7ac5cb21de013f7e9832e0	toolchain-funcs	eed10cf5e5a06916e654d31f5a1925cc
 _md5_=8fbc58d3b62a28c04e24c845fb2e2a12
