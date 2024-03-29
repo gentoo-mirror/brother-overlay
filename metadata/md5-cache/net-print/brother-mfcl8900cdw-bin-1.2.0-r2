@@ -12,4 +12,4 @@ RESTRICT=mirror strip
 SLOT=0
 SRC_URI=http://download.brother.com/welcome/dlf103216/mfcl8900cdwlpr-1.2.0-0.i386.rpm http://download.brother.com/welcome/dlf103225/mfcl8900cdwcupswrapper-1.3.0-0.i386.rpm
 _eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	528663355249513309c74d7775936940	multilib	c19072c3cd7ac5cb21de013f7e9832e0	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084
-_md5_=69b0840b4ecde2a84b71acaa4ac09df1
+_md5_=24623f5d7778091c87e3e2baedece26d
