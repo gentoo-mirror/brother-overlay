@@ -554,7 +554,7 @@ net-print/brother-mfcl2700dw-bin 1.0-r1: Printer driver for Brother MFC-L2700DW 
 net-print/brother-mfcl2720dw-bin 1.0-r1: Printer driver for Brother MFC-L2720DW (brgenml1)
 net-print/brother-mfcl2740dw-bin 1.0-r1: Printer driver for Brother MFC-L2740DW (brgenml1)
 net-print/brother-mfcl3730cdn-bin 1.0-r2: Brother printer driver for mfcl3730cdn
-net-print/brother-mfcl3770cdw-bin 1.0.2-r2: Brother printer drive for mfcl3770cdw
+net-print/brother-mfcl3770cdw-bin 1.0.2-r2: Brother printer driver for mfcl3770cdw
 net-print/brother-mfcl8690cdw-bin 1.4.0-r2: Brother printer drive for mfcl8690cdw
 net-print/brother-mfcl8900cdw-bin 1.5.0: Brother printer driver for mfcl8900cdw
 net-print/brother-ql1110nwb-bin 2.1.4-r1: Printer driver for Brother QL-1110NWB
