@@ -541,6 +541,7 @@ net-print/brother-mfc8950dw-bin 1.0-r1: Printer driver for Brother MFC-8950DW (b
 net-print/brother-mfc8950dwt-bin 1.0-r1: Printer driver for Brother MFC-8950DWT (brgenml1)
 net-print/brother-mfc9130cw-bin 1.1.2-r1: Brother printer driver for MFC-9130CW
 net-print/brother-mfc9140cdn-bin 1.0-r1: Brother printer driver for MFC-9140CDN
+net-print/brother-mfc9142cdn-bin 1.1.4: Brother printer driver for MFC-9142CDN
 net-print/brother-mfc9320cw-bin 1.1.2-r1: Brother printer driver for MFC-9320CW
 net-print/brother-mfc9330cdw-bin 1.1.2-r1: Brother printer driver for MFC-9330CDW
 net-print/brother-mfc9332cdw-bin 1.1.4-r1: Brother printer driver for MFC-9332CDW
